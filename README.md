@@ -44,7 +44,7 @@ dst
 
 ## Penulis
 
-Project ini dibuat oleh Rio Astamal \<rio@rioastamal.net\>.
+Project ini dibuat oleh Rio Astamal \<info@ecofinco.com\>.
 
 ## Kontribusi
 
