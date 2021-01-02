@@ -8,9 +8,9 @@ Al-Quran adalah kitab suci sempurna yang diturunkan Allah SWT. segala bentuk kes
 
 Project Al-Quran lain:
 
-- [quran-web](https://github.com/rioastamal/quran-web)
-- [quran-text](https://github.com/rioastamal/quran-text)
-- [quran-single-file](https://github.com/rioastamal/quran-single-file)
+- [quran-web](https://github.com/ecofinco/quran-web)
+- [quran-text](https://github.com/ecofinco/quran-text)
+- [quran-single-file](https://github.com/ecofinco/quran-single-file)
 
 ## Latar Belakang
 
@@ -26,7 +26,7 @@ Sumber utama ayat-ayat Al-Quran dan terjemahannya dalam project ini didapat dari
 
 ## Generator
 
-File yang ada di folder surah/ dihasilkan oleh Bash script `generator.sh`. Script ini memerlukan file quran dan terjemahan yang ada pada project [quran-text](https://github.com/rioastamal/quran-text).
+File yang ada di folder surah/ dihasilkan oleh Bash script `generator.sh`. Script ini memerlukan file quran dan terjemahan yang ada pada project [quran-text](https://github.com/ecofinco/quran-json).
 
 Cara menjalankan script.
 
