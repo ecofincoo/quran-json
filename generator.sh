@@ -12,8 +12,8 @@
 # export QURAN_TEXT_DIR=path/to/quran-text
 # bash generator.sh
 #
-# @author Rio Astamal <rio@rioastamal.net>
-# @require quran-text <https://github.com/rioastamal/quran-text>
+# @author Ecofinco <info@ecofinco.com>
+# @require quran-text <https://github.com/ecofincoo/quran-text>
 
 total_ayah=(7 286 200 176 120 165 206 75 129 109 123 111 43 52 \
     99 128 111 110 98 135 112 78 118 64 77 227 93 88 69 60 34 \
